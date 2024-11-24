@@ -4,3 +4,5 @@ Run
 pip install flask
 python app.py
 go to http://127.0.0.1:5000/?filter=transformers
+
+Favor considerar la app_entrega1 para la entrega de mejora de API de la semana 12.
